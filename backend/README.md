@@ -15,7 +15,7 @@ Your server is ready. Go to
 
 ### `go test`
 
-Launches the test runner in the interactive watch mode.\
+Launches the test runner in the interactive watch mode.
 
 ## Test commands
 
