@@ -66,7 +66,7 @@ func createdOrUpdated(w http.ResponseWriter,code int) {
 	w.WriteHeader(code)
 }
 
-
+//Check incoming request
 func (ar *articleHandler) ServeHTTP(w http.ResponseWriter, r *http.Request){
 	
 	w.Header().Set("Access-Control-Allow-Origin","*")
