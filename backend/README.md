@@ -20,5 +20,5 @@ Launches the test runner in the interactive watch mode.\
 ## Test commands
 
 1. curl http://localhost:9090/articles/ -- Check all the articles present in the server \
-2.curl ‘http://localhost:9090/articles/rest api’ -- Check a particular Article \
-3.curl -X PUT http://localhost:9090/articles/wiki -d ‘A wiki is a knowledge base website’ -- Edit/Create an article \
+2. curl ‘http://localhost:9090/articles/rest api’ -- Check a particular Article \
+3. curl -X PUT http://localhost:9090/articles/wiki -d ‘A wiki is a knowledge base website’ -- Edit/Create an article \
